@@ -1,0 +1,16 @@
+.name {
+    color: grey;
+}
+
+.foot {
+    background-color: #000000;
+    position:fixed;
+    left:0;
+    bottom:0;
+    right:0;
+}
+
+.linkicon {
+    height: 30px;
+    width: 30px;
+}
