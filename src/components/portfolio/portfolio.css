@@ -1,0 +1,68 @@
+.portfolioimg {
+    border: 2px solid black;
+    height: 178px;
+    width: 384px; 
+}
+
+.cont {
+    position: relative;
+}
+  
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 178px;
+    width: 384px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: black;
+}
+  
+.cont:hover .overlay {
+    opacity: .9;
+}
+  
+.titleabout {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.titleproject {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 22px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+.linkbtn {
+    width: 80%;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 18px;
+    background-color: black;
+    color: rgb(206, 206, 206);
+}
+
+.linkbtn:hover {
+    color: white;
+}
