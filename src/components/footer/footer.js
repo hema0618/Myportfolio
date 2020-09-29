@@ -1,7 +1,7 @@
 import React from "react";
 import "./footer.css";
 import githubIcon from "./github.png";
-import linkedinIcon from "./linkedin.PNG";
+import linkedinIcon from "./Linkedin.PNG";
 
 function Footer() {
     return (

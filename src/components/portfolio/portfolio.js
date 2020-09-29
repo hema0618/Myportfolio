@@ -33,4 +33,3 @@ class Portfolio extends Component {
 }
 
 export default Portfolio;
-© 2020 GitHub, Inc.

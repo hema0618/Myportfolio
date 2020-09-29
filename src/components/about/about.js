@@ -17,20 +17,9 @@ function About() {
                 Art and Design which I graduated in 2013.
                 </p>
                         
-                <p>These days I am looking to branch my professional interests in other directions. I
-                will soon complete my studies with the Trilogy UT Coding Bootcamp where I have learned
-                how to use web coding languages such as <strong>HTML, CSS, and Javascript along with Jquery.
-                </strong> Frameworks such as <strong>Bootstrap and Bulma</strong> are also toolkits I know well. 
-                I am also familiar with <strong>Node and Express,</strong> along with backend technologies such 
-                as <strong>SQL and Mongo.</strong> I am trained to use <strong>Git and Github,</strong> and most 
-                recently have been learning <strong>React.</strong>
-                </p>
+               
 
-                <p>My goal in the months ahead is to persue a career in web development working as a front-end,
-                back-end, or full-stack developer. Please feel free to take a look at my portfolio work and my Github
-                repositories. Additionally you can contact me by reach out via email on my contact page, or through Linkedin
-                with the link below.
-                </p>
+                
             </div>
         </div>
     );

@@ -1,0 +1,15 @@
+.container {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color: white;
+    border: 2px solid #f1f1f1;
+    margin-top: .5in;
+    margin-bottom: 1in;
+    overflow: auto;
+}
+
+.topic {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-bottom: 3px solid #f1f1f1;
+    width: 100%;
+    margin-left: 3px;
+} 
